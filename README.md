@@ -20,11 +20,8 @@
 </p>
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yukisatodev&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yukisatodev&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yukisatodev&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yukisatodev&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yukisatodev&theme=gruvbox&utcOffset=9)
+![](https://github-readme-stats.vercel.app/api?username=yukisatodev&show_icons=true&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yukisatodev&layout=compact&theme=gruvbox)
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=yukisatodev&theme=gruvbox)
