@@ -24,10 +24,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yukisatodev&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yukisatodev&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yukisatodev&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yukisatodev&theme=gruvbox&utcOffset=9)
-
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=yukisatodev&theme=gruvbox)
-
-## Contribution Snake 🐍
-![snake gif](https://raw.githubusercontent.com/yukisatodev/yukisatodev/output/github-contribution-grid-snake.svg)
